@@ -50,3 +50,5 @@ Route::get('/portfolio', function () {
 Route::get('/service', function () {
     return view('service');
 });
+
+//test
